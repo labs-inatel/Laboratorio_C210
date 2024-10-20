@@ -23,8 +23,8 @@ class PlotUtils:
     @staticmethod
     def plot_iteration(i):
         plt.title(f"PSO {i}")
-        plt.xlim(-20, 20)
-        plt.ylim(-20, 20)
+        plt.xlim(-30, 30)
+        plt.ylim(-30, 30)
         plt.xlabel('x[0]')
         plt.ylabel('x[1]')
         iteration = str(i).zfill(5)
