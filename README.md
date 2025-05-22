@@ -1,5 +1,8 @@
 # C210 - Inteligência Computacional
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
+
 Repositório destinado ao registro de projetos, implementações e exercícios desenvolvidos ao longo da disciplina **C210 - Inteligência Computacional**.
 
 ## Conteúdo Programático
